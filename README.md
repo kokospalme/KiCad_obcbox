@@ -6,5 +6,5 @@ Hardware of the obcbox-project. This PCB is designed for a raspberry pi 3 B+ and
 * Hardware (case): coming soon...
 
 # Status quo
-<a href=""><img align="right" alt="hardware20240212" src="[PCB_v0.2.png](PCB_v0.2.png)" width="500"></a>
+<a href=""><img align="right" alt="hardware20240212" src="[PCB_v0.2.png](/doc/PCB_v0.2.png)" width="500"></a>
 * v0.2 is working
