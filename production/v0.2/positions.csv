@@ -1,9 +1,9 @@
-Designator,Mid X,Mid Y,Rotation,Layer
+﻿Designator,Mid X,Mid Y,Rotation,Layer
 D1,163.35,-96.7,0.0,top
 D2,163.35,-114.7,0.0,top
 D3,140.25,-131.0,90.0,top
-J1,121.25,-132.38,0.0,bottom
-J2,125.075,-80.421,0.0,bottom
+J1,121.25,-132.38,180.0,bottom
+J2,125.075,-80.421,180.0,bottom
 J3,160.95,-138.225001,90.0,top
 J4,151.4,-137.45,0.0,top
 J5,116.55,-89.4,0.0,top
