@@ -3,7 +3,7 @@ Hardware of the obcbox-project. This PCB is designed for a raspberry pi 3 B+ and
 * Software (main): [java-BC](https://github.com/kokospalme/java-BC)
 * Software (gui): [obcgui](https://github.com/kokospalme/obcgui/)
 * Hardware (pcb): [KiCad_obcgui](https://github.com/kokospalme/KiCad_obcbox)
-* Hardware (case): coming soon...
+* Hardware (case): [grabcad](https://grabcad.com/library/obcbox-enclosure-v1-0-1)
 
 # Status quo
 <a href=""><img align="right" alt="PCB_v0.2" src="https://github.com/kokospalme/obcgui/blob/main/doc/hardware20240212.jpg" width="500"></a>
